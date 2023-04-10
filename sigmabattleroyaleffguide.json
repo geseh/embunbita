@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Solo Mode",
+      "image": "https://static.republika.co.id/uploads/member/images/news/lbp7ybvmr0.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/1.%20solo%20mode.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Solo Mode",
+      "image": "https://static.republika.co.id/uploads/member/images/news/lbp7ybvmr0.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/1.%20solo%20mode.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Duo Mode",
+      "image": "https://fin.co.id/upload/3549cd0780a0ca5dc39aed3a12919140.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/2.%20duo%20mode.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Squad Mode",
+      "image": "https://fin.co.id/upload/923d8b5c2c5f1eff957f5e9f4ee21c0c.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/3.%20squad%20mode.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Ranked Mode",
+      "image": "https://blog-static.mamikos.com/wp-content/uploads/2023/01/Download-Game-Sigma-Battle-Royale-APK-versi-2.0.0-dan-Cara-Instalnya.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/4.%20ranked%20mode.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Zombie Mode",
+      "image": "https://cdn0-production-images-kly.akamaized.net/6UpqDrJn0D0DnpV1XVPQ5RPr6lc=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4242362/original/034026200_1669629104-Sigma_Battle_Royale.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/5.%20zombie%20mode.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Battle Royale Guide",
+      "title": "Blitz Mode",
+      "image": "https://cdn-2.tstatic.net/pekanbaru/foto/bank/images/main-game-sigma-battle-royale.jpg",
+      "description": "Description",
+      "link": "https://ia902600.us.archive.org/19/items/4.-ranked-mode/Konten/6.%20blitz%20mode.html"
     
     }
   ]
