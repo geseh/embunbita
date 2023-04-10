@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Super Yandere Game Simulation",
+      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/gambar1.jpg"
+    } 
+  ],
+  "Data": [
+    
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+   },
+{
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+    },{
+   
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+    },
+{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+    },{
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+      },
+{
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+    },{
+   
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Judul pake info",
+      "image": "ambil di google copy image adress",
+      "description": "deskripsi",
+      "link": "ambil di archive org"
+    
+    }
+  ]
+}
