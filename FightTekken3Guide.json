@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Walkthrough TK 3 PS Fight 2020",
+      "image": "https://play-lh.googleusercontent.com/gmpZfvTwm8iRLpAZMr4l45uWWTPbdOSYWIXMcmTwjvjSTtLBx4OzAXYlp7V7Jpy3-Wnb=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.kentenk.guTken3Fightt&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Arcade",
+      "image": "https://article-imgs.scribdassets.com/75mtmxh7eo7zotdn/images/fileTP9UFRQL.jpg",
+      "description": "Description",
+      "link": "https://ia601600.us.archive.org/33/items/6.-practice-mode/konten/1.%20arcade%20mode.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Arcade",
+      "image": "https://article-imgs.scribdassets.com/75mtmxh7eo7zotdn/images/fileTP9UFRQL.jpg",
+      "description": "Description",
+      "link": "https://ia601600.us.archive.org/33/items/6.-practice-mode/konten/1.%20arcade%20mode.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Versus",
+      "image": "https://static.wikia.nocookie.net/tekken/images/9/95/T3gameplay.jpg/revision/latest/scale-to-width-down/640?cb=20210612110553&path-prefix=en",
+      "description": "Description",
+      "link": "https://ia801600.us.archive.org/33/items/6.-practice-mode/konten/2.%20versus%20mode.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Team Battle",
+      "image": "https://readsblog.com/wp-content/uploads/2022/02/Tekken-3.jpg",
+      "description": "Description",
+      "link": "https://ia801600.us.archive.org/33/items/6.-practice-mode/konten/3.%20team%20battle%20mode.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Time Attack",
+      "image": "https://cdn.dashfight.com/add0228add647b1129f1f47e5ef12b2e95197b46.jpg",
+      "description": "Description",
+      "link": "https://ia801600.us.archive.org/33/items/6.-practice-mode/konten/4.%20time%20attack%20mode.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Survival",
+      "image": "https://drew1440.files.wordpress.com/2022/03/tekken-3-system-12-35.jpg?w=640",
+      "description": "Description",
+      "link": "https://ia801600.us.archive.org/33/items/6.-practice-mode/konten/5.%20survival%20mode.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "PS Tekkon 3 Fight Guide",
+      "title": "Practice",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM2OWJiNjgtMmUwZS00ZGIwLWFlODYtODY1ZmYyMmNlNzJkXkEyXkFqcGdeQXVyODU5ODY0ODc@._V1_.jpg",
+      "description": "Description",
+      "link": "https://ia801600.us.archive.org/33/items/6.-practice-mode/konten/6.%20practice%20mode.html"
     
     }
   ]
