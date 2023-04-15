@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Resident Evil 4 Puzzle 2023",
+      "image": "https://play-lh.googleusercontent.com/_ng-55QoN_yg06eaL8Mkxnrh5pCOIoSH8B2cCe-J4XQVM0eBfkyX5NWwtS16IgOD1SY=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.OrimGames.ResidentEvil4Puzzle2023&hl=id"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/gambar1.jpg"
+    } 
+  ],
+  "Data": [
+    
+    {
+      "id": 1,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Rescuing Ashley Graham",
+      "image": "https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2023/03/RE4-Spoilers.jpg",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/1.%20Rescuing%20Ashley%20Graham.html"
+   },
+{
+      "id": 1,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Rescuing Ashley Graham",
+      "image": "https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2023/03/RE4-Spoilers.jpg",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/1.%20Rescuing%20Ashley%20Graham.html"
+    },{
+   
+      "id": 2,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Collecting Key Items",
+      "image": "https://www.gamepur.com/wp-content/uploads/2022/10/20230524/Resident-Evil-4-remake-Leon_01.jpg",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/2.%20Collecting%20Key%20Items.html"
+    },
+{
+      "id": 3,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Battling Enemies",
+      "image": "https://www.gameshub.com/wp-content/uploads/sites/5/2023/03/resident-evil-4-remake-review.jpg?w=1024",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/3.%20Battling%20Enemies.html"
+    },{
+      "id": 4,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Solving Puzzles",
+      "image": "https://www.gamebyte.com/wp-content/uploads/2023/03/65abf21f-resident-evil-4-remake-preview.jpg",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/4.%20Solving%20Puzzles.html"
+      },
+{
+      "id": 5,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Protecting Ashley",
+      "image": "https://i.ytimg.com/vi/P6V2evcoXMk/maxresdefault.jpg",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/5.%20Protecting%20Ashley.html"
+    },{
+   
+      "id": 6,
+      "name_category": "PS Residen E4 Remake Guide",
+      "title": "Escaping Traps",
+      "image": "https://venturebeat.com/wp-content/uploads/2022/10/RE4-Remake-Village-Fight.jpg?w=1200&strip=all",
+      "description": "Description",
+      "link": "https://ia601605.us.archive.org/6/items/3.-battling-enemies_202304/konten%20PS%20Residen%20E4%20Remake%20Guide/6.%20Escaping%20Traps.html"
+    
+    }
+  ]
+}
