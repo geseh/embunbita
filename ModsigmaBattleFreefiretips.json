@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Combat sigma freefire MOD MCPE",
+      "image": "https://play-lh.googleusercontent.com/yzsY-5FmcdU1AKKmQSpnLEkgAUyPsQigBbkUor08oEq7i8Nkh85x6bq1g_EoPSa7fXWv=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=mcpe.sigma.modification&hl=id"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/gambar1.jpg"
+    } 
+  ],
+  "Data": [
+    
+    {
+      "id": 1,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Classic Mode",
+      "image": "https://dailyspin.id/wp-content/uploads/2022/11/game-mirip-ff.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/1.%20Classic%20Mode.html"
+   },
+{
+      "id": 1,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Classic Mode",
+      "image": "https://dailyspin.id/wp-content/uploads/2022/11/game-mirip-ff.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/1.%20Classic%20Mode.html"
+    },{
+   
+      "id": 2,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Ranked Mode",
+      "image": "https://media.suara.com/suara-partners/sumedang/thumbs/653x367/2022/11/27/2-aplikasi-game-sigma-mod-apk-sumber-youtube.png",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/2.%20Ranked%20Mode.html"
+    },
+{
+      "id": 3,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Clash Squad",
+      "image": "https://cdn0-production-images-kly.akamaized.net/ESnYk-hP8GqJNRhA1PqvSefsxpg=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4242361/original/027637500_1669629104-sigma-battle-royale-apk.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/3.%20Clash%20Squad.html"
+    },{
+      "id": 4,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Battle Royale",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/12/03/2584427027.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/4.%20Battle%20Royale.html"
+      },
+{
+      "id": 5,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Training Ground",
+      "image": "https://dafunda.com/wp-content/uploads/2022/11/download-game-sigma-mirip-ff-2.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/5.%20Training%20Ground.html"
+    },{
+   
+      "id": 6,
+      "name_category": "Mod sigma Battle Freefire Tips",
+      "title": "Custom Room",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPr5rq6_nNo2O1RVi9be3LRT-0r7yyFJIpROaelCspTQnS1TjuZvhceg2z86yNxFwTj0lyW3L61ZU9Wc_ITxy7qQZhWN_2Xrn07PH9sztTzsjYFYERnL_YdR5mUPAFxvRR9sEIal2eQ-uzjdPMc6EGx5ntNOsFVcybkqbMu0gnY5-vnsdH5ZRWphYn7A/w640-h330/sigma%20mirip%20ff.jpg",
+      "description": "Description",
+      "link": "https://ia601602.us.archive.org/29/items/5.-training-ground/Konten%20Sigma%20Battle%20Freefire%20Tips/6.%20Custom%20Room.html"
+    
+    }
+  ]
+}
