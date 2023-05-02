@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Mario Kart Race Map For MCPE",
+      "image": "https://play-lh.googleusercontent.com/cB0bKpcv9x_yEhb2MQF_ut0L_qSjcnIceJQtyskNzcEosupZK5PiCoLku1QCZl5fAdQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.megamodmapsmcpe.mariokartmapsformcpe&hl=id"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/gambar1.jpg"
+    } 
+  ],
+  "Data": [
+    
+    {
+      "id": 1,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Mushroom Cup",
+      "image": "https://sukaon.b-cdn.net/wp-content/uploads/2019/09/dims.jpeg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/1.%20Mushroom%20Cup.html"
+   },
+{
+      "id": 1,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Mushroom Cup",
+      "image": "https://sukaon.b-cdn.net/wp-content/uploads/2019/09/dims.jpeg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/1.%20Mushroom%20Cup.html"
+    },{
+   
+      "id": 2,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Flower Cup",
+      "image": "https://cdn.vox-cdn.com/thumbor/0jxOV3L_xWjJCCb-8eURQiyCyVE=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24423971/mario_kart_tour.jpg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/2.%20Flower%20Cup.html"
+    },
+{
+      "id": 3,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Star Cup",
+      "image": "https://cdn.vox-cdn.com/thumbor/sT-PxhY-a4yEwgsPJ5B3GBw0iOA=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24560865/mario_bros_movie.jpg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/3.%20Star%20Cup.html"
+    },{
+      "id": 4,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Special Cup",
+      "image": "https://www.nintenderos.com/wp-content/uploads/2022/12/mario-nintendo-pelicula-logo.jpg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/4.%20Special%20Cup.html"
+      },
+{
+      "id": 5,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Shell Cup",
+      "image": "https://www.videogameschronicle.com/files/2022/09/MarioKart8Deluxe_BCP_Scrn_01.png",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/5.%20Shell%20Cup.html"
+    },{
+   
+      "id": 6,
+      "name_category": "Go! Mario Kart Guide",
+      "title": "Banana Cup",
+      "image": "https://images.cgames.de/images/gsgp/290/mario-kart-8-deluxe-umfrage_6221975.jpg",
+      "description": "Description",
+      "link": "https://ia902609.us.archive.org/15/items/3.-star-cup/Konten%20Go%20MarioKart%20Guide/6.%20Banana%20Cup.html"
+    
+    }
+  ]
+}
